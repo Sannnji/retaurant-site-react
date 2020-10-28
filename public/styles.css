@@ -1,0 +1,217 @@
+body,
+html,
+#root,
+#titleSection,
+.reactBody,
+.titleContainer {
+  margin: 0;
+  height: 100%;
+  width: 100%;
+}
+
+.customContainer {
+  padding: 4% 10%;
+}
+
+.column {
+  padding: 0;
+}
+
+.hoverContainer {
+  position: relative;
+}
+
+.middle {
+  opacity: 0;
+  transition: 0.5s ease;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}
+
+.hoverContainer:hover .middle {
+  opacity: 1;
+}
+
+.hoverText {
+  color: white;
+  font-size: 16px;
+}
+
+.titlePic {
+  background-image: url(./mainPizza.jpg);
+  width: 100%;
+  height: 100%;
+  position: relative;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.logo {
+  width: 100%;
+}
+
+.logoResize {
+  overflow: hidden;
+  width: 100%;
+  position: relative;
+  top: 20%;
+}
+
+#navbar {
+  border: 2px solid white;
+  font-family: "Noto Sans JP";
+  font-weight: 400;
+  margin-right: auto;
+  padding: 5px;
+  width: 30%;
+  margin-left: auto;
+  position: relative;
+  top: 35%;
+}
+
+#navbar a {
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.foodDisplay {
+  text-align: center;
+  background-color: white;
+  padding: 50px;
+}
+
+.foodDisplay h2 {
+  font-family: "Noto Sans JP";
+  font-weight: 300;
+}
+
+.foodPicIMG {
+  width: 100%;
+  transition: 0.5s ease;
+}
+
+.foodPicIMG:hover {
+  filter: brightness(50%);
+}
+
+.column img {
+  padding: 8px;
+  vertical-align: middle;
+}
+
+#about {
+  padding: 50px;
+}
+
+.aboutRow {
+  height: 100%;
+  padding: 4% 10%;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.aboutContainer img {
+  display: inline;
+}
+
+.picContainer {
+  padding: 0;
+}
+
+.aboutContainer p {
+  margin: 0 20px;
+}
+
+.aboutPic {
+  width: 100%;
+  border: 10px solid white;
+  box-shadow: 0 0 3px #ccc;
+}
+
+.aboutText {
+  font-family: "Noto Sans JP";
+  font-weight: 300;
+  height: 250px;
+  width: 400px;
+  padding: 50px;
+  margin: 0;
+}
+
+.cityPic {
+  background-image: url(./city.jpg);
+  width: 100%;
+  height: 100%;
+  position: relative;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  padding: 0;
+}
+
+.locationContainer {
+  padding: 4% 10%;
+}
+
+.locationContainer .row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hoursMapTainer {
+  text-align: center;
+  padding: 0;
+}
+
+#map {
+  height: 300px;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.hoursContainer {
+  margin: 25px;
+  font-family: "Noto Sans JP";
+  font-weight: 300;
+  text-align: center;
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.middleButton {
+  height: 100%;
+  width: 100%;
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+  height: 50px;
+  width: 150px;
+}
+
+#footer {
+  text-align: center;
+  box-shadow: 0 0 3px #ccc;
+  padding: 20px;
+}
+
+#footer p {
+  margin: 0;
+}
+.social-media-icon {
+  margin: 0 10px;
+}
