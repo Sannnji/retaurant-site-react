@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/github-pages-retaurant/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/github-pages-retaurant/static/js/main.d9c23660.chunk.js",
+    "main.js.map": "/github-pages-retaurant/static/js/main.d9c23660.chunk.js.map",
+    "runtime-main.js": "/github-pages-retaurant/static/js/runtime-main.f4fc85a6.js",
+    "runtime-main.js.map": "/github-pages-retaurant/static/js/runtime-main.f4fc85a6.js.map",
+    "static/js/2.b8664b36.chunk.js": "/github-pages-retaurant/static/js/2.b8664b36.chunk.js",
+    "static/js/2.b8664b36.chunk.js.map": "/github-pages-retaurant/static/js/2.b8664b36.chunk.js.map",
+    "static/js/3.e4dcb921.chunk.js": "/github-pages-retaurant/static/js/3.e4dcb921.chunk.js",
+    "static/js/3.e4dcb921.chunk.js.map": "/github-pages-retaurant/static/js/3.e4dcb921.chunk.js.map",
+    "index.html": "/github-pages-retaurant/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/github-pages-retaurant/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.b8664b36.chunk.js.LICENSE.txt": "/github-pages-retaurant/static/js/2.b8664b36.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/github-pages-retaurant/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4fc85a6.js",
+    "static/js/2.b8664b36.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.d9c23660.chunk.js"
+  ]
+}
